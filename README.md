@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @F-Ehti
 - 👀 I’m interested in Python, ML/AI, markdown and AWS.
 - 🌱 I’m currently learning Python, markdown, data analysis and AWS.
-- 💞️ I’m looking to collaborate on python,MI/AL, markdown, data analysis and AWS.
+- 💞️ I’m looking to collaborate on python,ML/AI, markdown, data analysis and AWS.
 - 📫 How to reach me farrukhehtisham@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
